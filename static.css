@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+}
+.left {
+  border-radius: 3px;
+  color: red;
+  background-color: orange;
+  margin: 2px;
+  flex:2;
+  border-color: black;
+}
+.right {
+  border-radius: 3px;
+  color: green;
+  background-color: blue;
+  margin: 2px;
+  flex:2;
+  border-color: black;
+}
